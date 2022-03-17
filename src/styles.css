@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+
+.div {
+  display: none;
+
+  background-color: aqua;
+
+  color: brown;
+
+  border-color: blue;
+}
+
